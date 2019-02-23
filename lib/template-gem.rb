@@ -1,4 +1,4 @@
-require "templateGem/version"
+require "template-gem/version"
 require "thor"
 
 module TemplateGem
