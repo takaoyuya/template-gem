@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "templateGem"
+TemplateGem::CLI.start
